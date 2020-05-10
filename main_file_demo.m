@@ -6,8 +6,8 @@
 %
 % To run this code, you need to download TensorLab package (https://www.tensorlab.net). 
 % 
-% Once you have all the files in the TensorLab package and the files in code 
-% in the same folder, this file should run. 
+% Once you have all the files in the TensorLab package and the files of this 
+% code in the same folder, this file should run. 
 %
 %
 %
